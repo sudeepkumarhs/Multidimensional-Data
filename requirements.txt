@@ -1,0 +1,7 @@
+# Dependencies for Capstone Project 1: Working with NumPy Matrices
+numpy>=1.26.0
+matplotlib>=3.8.0
+scipy>=1.13.0
+nbformat>=5.10.0
+nbconvert>=7.16.0
+ipykernel>=6.29.0
